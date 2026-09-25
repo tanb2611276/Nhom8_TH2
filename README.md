@@ -20,13 +20,13 @@ Bài thực hành nhằm trang bị các kỹ năng xử lý văn bản từ cơ
   - Tạo danh sách gồm 7 người nhận với các trường thông tin: `Title`, `First name`, `Surname`, `Address`, `City`, `Country`.
 - **Tạo tập tin chính (`Buoi7_Bai2_Taptinchinh.docx`):** 
   - Soạn thảo mẫu thư thông báo khóa học và chèn các trường dữ liệu tương ứng từ file Excel.
-- **Xuất kết quả (`Ho_ten_Bai_1.docx`):** 
+- **Xuất kết quả (`Buoi2_Nguyễn_Trần_Phước_Tấn_Bài_1`):** 
   - Thực hiện lệnh trộn thư (Finish & Merge) để xuất ra tập tin hoàn chỉnh chứa danh sách thư đã được cá nhân hóa.
 
 ---
 
 ### 2. Bài thực hành 2: Định dạng văn bản & Tạo mục lục tự động
-- **Tập tin thực hiện:** `Buoi02_Họ_tên_Bài_5.docx`
+- **Tập tin thực hiện:** `Buoi7_Trần_Duy_Thái_Bài_5.docx  `
 - **Các kỹ thuật nâng cao đã thiết lập:**
   - **Phân chia Section:** 
     - *Section 1 (Trang 1 – 8):* Phần đầu trang (Lời cảm ơn, Mục lục, Danh mục, Tóm tắt...). Định dạng số trang dạng La Mã (`i, ii, iii...`).
@@ -47,7 +47,7 @@ Bài thực hành nhằm trang bị các kỹ năng xử lý văn bản từ cơ
 ---
 
 ### 3. Bài thực hành 3: Soạn thảo và Cộng tác trên Google Docs
-- **Tập tin thực hiện:** `Buoi2_Họ_tên_Bai_1.gdoc`
+- **Tập tin thực hiện:** Link đã gửi trên Nhom8_TH2.docx
 - **Định dạng cấu hình trang (Page Setup):**
   - Khổ giấy A4, hướng Portrait.
   - Lề trang: Top: 1", Bottom: 1", Left: 1.2", Right: 0.8".
@@ -65,7 +65,7 @@ Bài thực hành nhằm trang bị các kỹ năng xử lý văn bản từ cơ
 ```text
 .
 ├── Buoi2_Bai1_Dulieu.xlsx 
-├── Buoi7_Bai2_Nguyễn_Trần_Phước_Tấn.docx 
+├── Buoi2_Nguyễn_Trần_Phước_Tấn_Bài_1.docx 
 ├── Buoi7_Bai2_Taptinchinh.docx 
 └── Buoi7_Trần_Duy_Thái_Bài_5.docx  
 ```
