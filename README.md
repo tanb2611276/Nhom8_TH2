@@ -1,5 +1,5 @@
 # BÁO CÁO BÀI THỰC HÀNH BUỔI 2
-**Môn học:** Nền tảng CNTT / Tin học ứng dụng  
+**Môn học:** Nền tảng CNTT - CT005/F01
 **Chủ đề:** Trộn thư (Mail Merge), Tạo mục lục tự động trong MS Word và Soạn thảo văn bản trên Google Docs  
 
 ---
